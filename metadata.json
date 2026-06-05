@@ -1,0 +1,6 @@
+{
+  "name": "Recruitment Management System",
+  "description": "An AI-powered recruitment management platform featuring automatic job extraction from documents, multi-company role-based workflows, applicant tracking, and hiring analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
